@@ -1,6 +1,6 @@
-  =>  Template Name    : Kider - Preschool Website Template
+  =>  Template Name    : Gosain International  - School Website Template
 
-  =>  Template Link    : https://htmlcodex.com/preschool-website-template
+  =>  Template Link    : https://htmlcodex.com/School-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
